@@ -1,0 +1,2 @@
+main:
+	ruby matrix.rb
